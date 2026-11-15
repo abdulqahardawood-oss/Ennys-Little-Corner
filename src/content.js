@@ -2,7 +2,7 @@ export const littleNotes = [
   'You make ordinary days feel a little more golden.',
   'Certified: 10/10 human, excellent at being you.',
   'This corner has officially declared you a delight.',
-  'A tiny reminder that you are very, very easy to root for.',
+  'A Tiny reminder that you are very, very easy to root for.',
   'Beautiful face, beautiful energy, top-tier friend.',
 ]
 
